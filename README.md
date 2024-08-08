@@ -37,7 +37,7 @@ To run this game locally, follow these steps:
 
 Here’s a quick look at the game:
 
-![Game Screenshot](https://github.com/sharadpatidar01/Portfolio/blob/main/assets/img/home.jpg)
+![Game Screenshot](https://github.com/sharadpatidar01/JS-Dragon-Game/blob/master/screenshort.png)
 
 ## 📧 Contact
 
